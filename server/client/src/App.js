@@ -39,7 +39,7 @@ function App() {
 
       <img src={logo} alt="banner" />
       <div className="box">
-        <h1>File Sharing</h1>
+        <h1>File Sharing Application</h1>
         <p>Upload and Share</p>
 
         <button onClick={() => onUpload()}>Upload</button>
